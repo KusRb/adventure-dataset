@@ -47,7 +47,7 @@ Build and orchestrate a complete data pipeline using Azure services, from raw da
 ## 📊 Visualizations
 
 * ![Sales by country](images/visualization/country-sales.png)
-* ![Revenue contribution by product type](visualization/categories.png)
+* ![Revenue contribution by product type](images/visualization/categories.png)
 * ![Time-to-market comparisons](images/visualization/total-order.png)
 
 ## 📈 Learning Outcomes
