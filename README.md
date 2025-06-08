@@ -29,9 +29,9 @@ Build and orchestrate a complete data pipeline using Azure services, from raw da
 │   ├── Create external table.sql
 │   └── Create views gold.sql
 ├── visuals
-│   ├── total-order.png
-│   ├── country-sales.png
-│   └── categories.png
+│   ├── visualization/total-order.png
+│   ├── visualization/country-sales.png
+│   └── visualization/categories.png
 ├── README.md
 ```
 
@@ -46,9 +46,9 @@ Build and orchestrate a complete data pipeline using Azure services, from raw da
 
 ## 📊 Visualizations
 
-* ![Sales by country](images/country-sales.png)
-* ![Revenue contribution by product type](images/categories.png)
-* ![Time-to-market comparisons](images/total-order.png)
+* ![Sales by country](images/visualization/country-sales.png)
+* ![Revenue contribution by product type](visualization/categories.png)
+* ![Time-to-market comparisons](images/visualization/total-order.png)
 
 ## 📈 Learning Outcomes
 
